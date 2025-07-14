@@ -1,0 +1,16 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore input/output files
+input.txt
+output.txt
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs or other junk
+*.log
