@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class gcdoftnum {
+public class gcdoftnumbrute {
     public static int calculateGcd(int x, int y) {
         int gcd = 1;
         for (int i = 1; i <= Math.min(x, y); i++) {
