@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class gcdoftwonumoptimal {
+public class gcdoftwonumbest {
     public static int calculateGcd(int x, int y) {
 
         for (int i = Math.min(x, y); i > 1; i--) {
