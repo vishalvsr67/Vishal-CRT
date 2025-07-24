@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class RemoveDuplicates {
+public class RemoveDuplicatesbrute {
     static int removeDuplicates(int[] arr) {
         HashSet<Integer> set = new HashSet<>();
         for (int i = 0; i < arr.length; i++) {
